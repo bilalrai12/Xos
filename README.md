@@ -17,10 +17,10 @@ XOS BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/XOS.git
+   git clone https://github.com/bilalrai12/Xos.git
    ```
    ```bash
-   cd XOS
+   cd Xos
    ```
    
 2. **Install Requirements:**
